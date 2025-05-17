@@ -1,1 +1,1 @@
-# simple-jetty-12-rest-server
+Simple rest server in Jetty 12.
